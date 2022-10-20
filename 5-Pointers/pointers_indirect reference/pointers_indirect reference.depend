@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644327044 source:c:\users\bartu\onedrive\documents\zoom\pointers_indirect reference\main.c
+	<stdio.h>
+	<stdlib.h>
+
