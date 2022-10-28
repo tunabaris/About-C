@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643313048 source:c:\users\bartu\onedrive\documents\zoom\findinggreatcommondivisor_challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
